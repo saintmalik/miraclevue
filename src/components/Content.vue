@@ -3,9 +3,9 @@
 <main class="py-4 bg-gray-200">
       <div class="container auto-max">
 		<ul class="miracle_ticket_list">
-			<li><span id="miracle_welcome" class="miracle_welcoming_text">MIRACLE<i class="miracle_welcome_text_i">ODDS</i></span>	<div class="miracle_ticket_text">
+			<li><span id="miracle_welcome" class="miracle_welcoming_text">LOREM<i class="miracle_welcome_text_i">LOREM</i></span>	<div class="miracle_ticket_text">
 					<div class="ticket_title">
-						<h2>Miracle Fixed Odds,</h2>
+						<h2>Lorem Fixed Lorem,</h2>
 						<span>YOUR EXPERT</span>
 						<h2>IN BIG ODDS</h2>
 					</div>
@@ -14,14 +14,14 @@
 				</div>
 			</li>
             <li>
-				<span id="miracle_welcome" class="miracle_welcoming_text">MIRACLE<i class="miracle_welcome_text_i">ODDS</i></span>
+				<span id="miracle_welcome" class="miracle_welcoming_text">LOREM<i class="miracle_welcome_text_i">LOREM</i></span>
 				<div class="miracle_ticket_text">
 					
 					<p>Half Time Full Time Fixed Matches are 100% Safe. Our connection is direct from some people working in the clubs, like club owners, coaches, players, etc… and our information is reliable. To get these information and to establish this network of reliable sources, We needed a lot of time and money. But now it’s easier. Per week we received at least two to four HT/FT Fixed Matches</p>
 				</div>
 			</li>
 			<li>
-				<span id="miracle_welcome" class="miracle_welcoming_text">MIRACLE<i class="miracle_welcome_text_i">ODDS</i></span>
+				<span id="miracle_welcome" class="miracle_welcoming_text">LOREM<i class="miracle_welcome_text_i">LOREM</i></span>
 				<div class="miracle_ticket_text">
 					
 					<p><span class="miracle_alert">BEWARE!!! </span>
@@ -31,7 +31,7 @@ First when we started this business, we tried this option. Can you imagine what 
 				</div>
 			</li>
 			<li>
-				<span id="miracle_welcome" class="miracle_welcoming_text">MIRACLE<i class="miracle_welcome_text_i">ODDS</i></span>
+				<span id="miracle_welcome" class="miracle_welcoming_text">LOREM<i class="miracle_welcome_text_i">LOREM</i></span>
 				<div class="miracle_ticket_text">
 					
 					<p><span class="miracle_alert">
@@ -41,7 +41,7 @@ WE ALLOW HALF PAYMENT BEFORE THE GAME AND DO D BALANCE UP AFTER WINNING FOR ONLY
 				</div>
 			</li>
 			<li>
-				<span id="miracle_welcome" class="miracle_welcoming_text">MIRACLE<i class="miracle_welcome_text_i">ODDS</i></span>
+				<span id="miracle_welcome" class="miracle_welcoming_text">LOREM<i class="miracle_welcome_text_i">LOREM</i></span>
 				<div class="miracle_ticket_text">
 					
 					<p>Our team will help you to win money on easy way with giving a Sure Football Fixed Matches from very reliable sources. Join Now and start earning money every day with safest daily fixed matches. CONTACT US: <font color="yellow">08131920174</font></p>			</div>
@@ -56,19 +56,19 @@ WE ALLOW HALF PAYMENT BEFORE THE GAME AND DO D BALANCE UP AFTER WINNING FOR ONLY
       <div class="w-full lg:w-1/3 md:mx-2 mb-4 md:mb-0">
         <div class="bg-white rounded-lg overflow-hidden shadow relative">
           <img class="ticket_img w-full object-center" src="../assets/img/miraclefixedodds1.jpg" alt="">
-            <button class="button text-white font-bold py-2 px-4 rounded-full"><a href="https://wa.me/2348131920174?text=I'm%20interested%20in%20your%20odds">Contact Us On Whatsapp Now </a></button>
+            <button class="button text-white font-bold py-2 px-4 rounded-full"><a href="https://testtesttest">Contact Us On Whatsapp Now </a></button>
              </div>
                 </div>
      <div class="w-full lg:w-1/3 md:mx-2 mb-4 md:mb-0">
         <div class="bg-white rounded-lg overflow-hidden shadow relative">
           <img class="ticket_img w-full object-center" src="../assets/img/miraclefixedodds2.jpg" alt="">
-            <button class="button shadow-xl border-solid border-4 text-white font-bold py-2 px-4 rounded-full"><a href="https://wa.me/2348131920174?text=I'm%20interested%20in%20your%20odds">Contact Us On Whatsapp Now </a></button>
+            <button class="button shadow-xl border-solid border-4 text-white font-bold py-2 px-4 rounded-full"><a href="https://testtesttest">Contact Us On Whatsapp Now </a></button>
              </div>
                 </div>
                 <div class="w-full lg:w-1/3 md:mx-2 mb-4 md:mb-0">
         <div class="bg-white rounded-lg overflow-hidden shadow relative">
           <img class="ticket_img w-full object-center" src="../assets/img/miraclefixedodds3.jpg" alt="">
-            <button class="button shadow-xl border-solid border-4 text-white font-bold py-2 px-4 rounded-full"><a href="https://wa.me/2348131920174?text=I'm%20interested%20in%20your%20odds">Contact Us On Whatsapp Now </a></button>
+            <button class="button shadow-xl border-solid border-4 text-white font-bold py-2 px-4 rounded-full"><a href="https://testtesttest">Contact Us On Whatsapp Now </a></button>
              </div>
                 </div>
                 </div>
@@ -80,19 +80,19 @@ WE ALLOW HALF PAYMENT BEFORE THE GAME AND DO D BALANCE UP AFTER WINNING FOR ONLY
       <div class="w-full lg:w-1/3 mt-12 md:mx-2 mb-4 md:mb-0">
         <div class="bg-white rounded-lg overflow-hidden shadow relative">
           <img class="ticket_img object-center" src="../assets/img/miraclefixedodds4.jpg" alt="">
-            <button class="button shadow-xl border-solid border-4 text-white font-bold py-2 px-4 rounded-full"><a href="https://wa.me/2348131920174?text=I'm%20interested%20in%20your%20odds">Contact Us On Whatsapp Now </a></button>
+            <button class="button shadow-xl border-solid border-4 text-white font-bold py-2 px-4 rounded-full"><a href="https://testtesttest">Contact Us On Whatsapp Now </a></button>
              </div>
                 </div>
      <div class="w-full lg:w-1/3 mt-12 md:mx-2 mb-4 md:mb-0">
         <div class="bg-white rounded-lg overflow-hidden shadow relative">
-          <img class="ticket_img object-center" src="https://miraclefixedodds.com.ng/images/miraclefixedodds1.jpg" alt="">
-            <button class="button shadow-xl border-solid border-4 text-white font-bold py-2 px-4 rounded-full"><a href="https://wa.me/2348131920174?text=I'm%20interested%20in%20your%20odds">Contact Us On Whatsapp Now </a></button>
+          <img class="ticket_img object-center" src="https://mircalevue.web.app/images/miraclefixedodds1.jpg" alt="">
+            <button class="button shadow-xl border-solid border-4 text-white font-bold py-2 px-4 rounded-full"><a href="https://testtesttest">Contact Us On Whatsapp Now </a></button>
              </div>
                 </div>
                 <div class="w-full lg:w-1/3 mt-12 md:mx-2 mb-4 md:mb-0">
         <div class="bg-white rounded-lg overflow-hidden shadow relative">
-          <img class="ticket_img w-full object-center" src="https://miraclefixedodds.com.ng/images/miraclefixedodds1.jpg" alt="">
-            <button class="button shadow-xl border-solid border-4 text-white font-bold py-2 px-4 rounded-full"><a href="https://wa.me/2348131920174?text=I'm%20interested%20in%20your%20odds">Contact Us On Whatsapp Now </a></button>
+          <img class="ticket_img w-full object-center" src="https://mircalevue.web.app/images/miraclefixedodds1.jpg" alt="">
+            <button class="button shadow-xl border-solid border-4 text-white font-bold py-2 px-4 rounded-full"><a href="https://testestest">Contact Us On Whatsapp Now </a></button>
              </div>
                 </div>
                 </div>        
@@ -100,7 +100,7 @@ WE ALLOW HALF PAYMENT BEFORE THE GAME AND DO D BALANCE UP AFTER WINNING FOR ONLY
                 </div>
                     
     <button class="btn mt-12 bg-green-900 pl-3 block uppercase mx-auto text-white text-xs py-3 px-10 rounded">
-        <a href="https://t.me/Bestodd457">—— Contact Us Now On Telegram Platform ——</a>
+        <a href="https://testtestest">—— Contact Us Now On Telegram Platform ——</a>
     </button>
    
    <div class="container mx-auto">
@@ -121,7 +121,7 @@ Some people will come to my inbox only after loosing to fake people and will be 
 <p>Join the right source through us and double your income with us. 
 Note: Odds come with big odds and sometimes small odds.with no chances of loosing
 Remember huge amount are paid to get this fixed matches 
-Contact the CEO Miracle Fixed odds now on<span class="miracle_alert"> 08131920174</span> for the next Available fixed Matches </p></div></div>
+Contact for testtesttest odds now on<span class="miracle_alert"> loremloremlorem</span> for the next Available fixed Matches </p></div></div>
                   </main>
                   
 </div>

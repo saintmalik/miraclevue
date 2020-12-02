@@ -2,7 +2,7 @@
   <header class="bg-gray-900 sm:flex sm:justify-between sm:items-center sm:px-4 sm:py-3">
     <div class="flex items-center justify-between px-4 py-3 sm:p-0">
       <div>
-        <img class="h-12" src="https://miraclefixedodds.com.ng/images/miraclefixedodds-100x100.png" alt="Workcation">
+        <img class="h-12" src="https://mircalevue.web.app/images/100x100.png" alt="testwithvue">
       </div>
       <div class="sm:hidden">
         <button @click="isOpen = !isOpen" type="button" class="block text-gray-500 hover:text-white focus:text-white focus:outline-none">
@@ -14,8 +14,8 @@
       </div>
     </div>
     <nav :class="isOpen ? 'block' : 'hidden'" class="px-2 pt-2 pb-4 sm:flex sm:p-0">
-    <a class="block px-2 py-1 text-white font-semibold rounded hover:bg-gray-800" href="https://wa.me/2348131920174?text=I'm%20interested%20in%20your%20odds">Contact</a>
-    <a class="block px-2 py-1 text-white font-semibold rounded hover:bg-gray-800" href="https://wa.me/2348131920174?text=I'm%20interested%20in%20your%20odds">Get Your Odd</a>
+    <a class="block px-2 py-1 text-white font-semibold rounded hover:bg-gray-800" href="https://wa.me/testtesttest?text=I'm%20interested%20in%20your%20odds">Contact</a>
+    <a class="block px-2 py-1 text-white font-semibold rounded hover:bg-gray-800" href="https://wa.me/testtesttest?text=I'm%20interested%20in%20your%20odds">Get Your Odd</a>
     </nav>
   </header>
 </template>
